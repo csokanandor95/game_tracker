@@ -1,0 +1,2 @@
+# game_tracker
+A simple Python desktop app to track video games. Add games you want to play or have completed, rate them on a 1–10 scale, and keep gaming activity organized. / Eine einfache Python-Desktop-App zum Verwalten von Videospielen. Füge Spiele hinzu, die du spielen möchtest oder bereits abgeschlossen hast, bewerte sie auf einer Skala von 1–10 und behalte den Überblick über deine Gaming-Aktivitäten.
