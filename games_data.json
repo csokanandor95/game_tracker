@@ -8,5 +8,15 @@
     "title": "Rise of the Ronin",
     "status": "completed",
     "rating": 7
+  },
+  {
+    "title": "Alone in the Dark",
+    "status": "completed",
+    "rating": 7
+  },
+  {
+    "title": "Star Wars Jedi Survivor",
+    "status": "to be played",
+    "rating": null
   }
 ]
