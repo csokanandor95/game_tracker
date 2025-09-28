@@ -16,6 +16,31 @@
   },
   {
     "title": "Star Wars Jedi Survivor",
+    "status": "completed",
+    "rating": 9
+  },
+  {
+    "title": "Silent Hill f",
+    "status": "to be played",
+    "rating": null
+  },
+  {
+    "title": "Dying Light The Beast",
+    "status": "to be played",
+    "rating": null
+  },
+  {
+    "title": "Cronos The New Dawn",
+    "status": "to be played",
+    "rating": null
+  },
+  {
+    "title": "No I'm not a human",
+    "status": "to be played",
+    "rating": null
+  },
+  {
+    "title": "Battlefield 6",
     "status": "to be played",
     "rating": null
   }
